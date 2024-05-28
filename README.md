@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studyng at SENAI
-- 🌱 I’m currently learning:
+- 🌱 learning:
   <br><br>
   <img style="width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/> <img style="width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> <img style="width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img style="width: 70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 - 📫 Email: **Baierhenrique13@gmail.com**
