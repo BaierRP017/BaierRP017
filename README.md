@@ -20,7 +20,7 @@ dedicado a expandir meus conhecimentos no campo da tecnologia.
 </div>
 
 #### 📫 Contate-me:
-- **Email:** contato@gabrielenrique.dev (Use este formato para proteger seu email)
+- **Email:** baierhenrique13@gmail.com
 
 #### 👨‍🎓 Sobre Mim:
 Com uma paixão pela tecnologia desde cedo, estou constantemente buscando novas oportunidades para aplicar e aprimorar minhas habilidades em desenvolvimento web e bancos de dados. Minha dedicação e comprometimento com o aprendizado me levam a explorar continuamente as últimas tendências e ferramentas no campo.
@@ -29,6 +29,12 @@ Com uma paixão pela tecnologia desde cedo, estou constantemente buscando novas 
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Python
 - **Banco de Dados:** SQL
-- 
+
+#### 📈 Estatísticas do GitHub:
+<div align="center">
+  <img alt="Top Langs" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaierRP017&layout=compact&langs_count=4&theme=dracula">
+  <img alt="GitHub stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=BaierRP017&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+</div>
+
 #### 🤝 Entre em contato:
 Estou aberto a colaborações e discussões sobre tecnologia. Sinta-se à vontade para entrar em contato através do meu email protegido acima.
