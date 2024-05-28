@@ -1,15 +1,13 @@
 ### Olá 👋
 
-Sou Gabriel Henrique, um estudante de 17 anos no SENAI, apaixonado por aprender e crescer no campo da tecnologia.
+Sou Gabriel Henrique, um estudante de 17 anos no SENAI, apaixonado por aprender e crescer no campo da tecnologia,
+principalmente no design
 
 #### 🚀 Atualmente Estudando em:
 - **SENAI**
+- **SESI**
 
 #### 🌱 Atualmente Aprendendo:
-- **Front-end Development:** CSS, HTML, JavaScript
-- **Back-end Development:** Python
-- **Design Gráfico:** 3ds Max
-
 ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
 ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
@@ -37,3 +35,4 @@ Se você quiser colaborar ou simplesmente conversar sobre tecnologia, sinta-se �
 ---
 
 Feito com ❤️ por Gabriel Henrique.
+
